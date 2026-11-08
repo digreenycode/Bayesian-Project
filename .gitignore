@@ -1,0 +1,14 @@
+# Generated experimental data
+data_long3/
+data_smoke/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter temporary files, if applicable
+.ipynb_checkpoints/
